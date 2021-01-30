@@ -1,6 +1,8 @@
 Project 01: Cancer Hallmark and Metabolic Pathways in Cancer
 ============================================================
 
+### Data Sciece project based teaching - 2020
+
 ### *Project overview and guidelines*
 
 -   [Introduction](#introduction)
@@ -10,12 +12,14 @@ Project 01: Cancer Hallmark and Metabolic Pathways in Cancer
 -   [How to structure your project](#how-to-structure-your-project)
     -   [Project proposal](#project-proposal)
     -   [Project](#project)
+    -   [Final presentation](#final-presentation)
+-  [Scoring](#scoring)
 
 Supervisor:
 
 -   Carl Herrmann
     ([carl.herrmann@uni-heidelberg.de](mailto:carl.herrmann@bioquant.uni-heidelberg.de))
--   Ashwini Sharma
+-   Ashwini Kumar Sharma
     ([ashwini.sharma@bioquant.uni-heidelberg.de](mailto:ashwini.sharma@bioquant.uni-heidelberg.de))
 
 Tutor: [Anton Hanke](mailto:anton.hanke@stud.uni-heidelberg.de)
@@ -257,3 +261,18 @@ You have a high dimension matrix, that is, you have way more features
 #### Data modelling
 
 Predict activities of some pathways using the activities of other pathways.
+
+#### Final presentation
+
+You will have to present your findings in a 15 min presentation followed by 15 min of questioning
+
+Scoring
+=======
+
+You will be graded on -
+- Quality of project proposal (realistic vs ambitious vs planning)
+- Teamwork and individual contributions
+- Completion of essential statistical tasks
+- Understanding of concepts
+- Troubleshooting
+- FInal presentation
